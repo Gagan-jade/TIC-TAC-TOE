@@ -1,0 +1,1 @@
+<b>HOW TO RUN<b> :  Simply open the index.html file in a web browser to play the game. Make sure that the CSS and JavaScript files are in the same directory as index.html, or update the paths accordingly if they are located in different directories.
